@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jax-01
+- 👋 Hi, I’m John Albert
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 
