@@ -1,6 +1,4 @@
-- 👋 Hi, I’m John Albert
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+👀 I’m interested in Web Development
 
 <!---
 jax-01/jax-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
